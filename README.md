@@ -150,6 +150,19 @@ A successful workflow run indicates that these checks have passed.
 - Project progress dashboard
 - Deployment to a cloud hosting platform
 
+## Screenshots
+
+### Login Page
+
+![TaskFlow Login Page](./screenshots/Screenshot%202026-10-18%20152326.png)
+
+### Dashboard
+
+![TaskFlow Dashboard](./screenshots/Screenshot%202026-10-18%20152150.png)
+
+### Task Management
+
+![Task Management](./screenshots/Screenshot%202026-10-18%20152238.png)
 ## Author
 
 Developed as a MERN stack learning and development project.
